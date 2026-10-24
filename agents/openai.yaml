@@ -1,0 +1,4 @@
+interface:
+  display_name: "中信信用卡账单助手"
+  short_description: "自动导出中信信用卡已出与未出账单Excel，合并汇总当月净消费并监控活动达标"
+  default_prompt: "帮我导出并汇总本月中信信用卡1号到今天的消费明细，并核算我参加的活动达标情况"
